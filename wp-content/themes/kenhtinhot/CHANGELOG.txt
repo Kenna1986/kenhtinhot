@@ -1,0 +1,20 @@
+Tribune Theme
+
+http://www.wpzoom.com/themes/tribune/
+
+
+ 
+CHANGELOG
+---------------------------
+
+V 1.1
+	
+	
+	- wpzoom-slider.php - replaced the_content_limit with the_excerpt
+	- new template file: category.php
+	- functions/wpzoom-functions.php - fixed a bug in line #993
+	
+	
+V 1.0
+
+	- initial version

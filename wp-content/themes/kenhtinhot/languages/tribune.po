@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: 404.php:14
+#@ wpzoom
+msgid "Error 404 - Nothing Found"
+msgstr ""
+
+#: 404.php:23
+#@ wpzoom
+msgid "The page you are looking for could not be found."
+msgstr ""
+
+#: archive.php:19
+#@ wpzoom
+msgid "Archive for Category:"
+msgstr ""
+
+#: archive.php:20
+#@ wpzoom
+msgid "Post Tagged with:"
+msgstr ""
+
+#: archive.php:21
+#: archive.php:22
+#: archive.php:23
+#@ wpzoom
+msgid "Archive for"
+msgstr ""
+
+#: archive.php:24
+#@ wpzoom
+msgid "Author Archive"
+msgstr ""
+
+#: archive.php:25
+#@ wpzoom
+msgid "Archives"
+msgstr ""
+
+#: archive.php:51
+#: author.php:49
+#: index.php:105
+#: search.php:42
+#@ wpzoom
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: archive.php:52
+#: author.php:50
+#: index.php:106
+#: search.php:43
+#@ wpzoom
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: attachment.php:25
+#@ wpzoom
+msgid "&larr; Previous"
+msgstr ""
+
+#: attachment.php:25
+#@ wpzoom
+msgid "Next &rarr;"
+msgstr ""
+
+#: attachment.php:36
+#@ wpzoom
+msgid "View full size"
+msgstr ""
+
+#: author.php:20
+#, php-format
+#@ wpzoom
+msgid "Articles By:  %s"
+msgstr ""
+
+#: comments.php:12
+#@ wpzoom
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:18
+#@ wpzoom
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:18
+#@ wpzoom
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:18
+#@ wpzoom
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:26
+#@ wpzoom
+msgid "Previous Comments"
+msgstr ""
+
+#: comments.php:27
+#@ wpzoom
+msgid "Next Comments"
+msgstr ""
+
+#: comments.php:43
+#@ wpzoom
+msgid "Comments are closed"
+msgstr ""
+
+#: comments.php:55
+#@ wpzoom
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:55
+#, php-format
+#@ wpzoom
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:61
+#@ wpzoom
+msgid "You must be"
+msgstr ""
+
+#: comments.php:61
+#@ wpzoom
+msgid "logged in"
+msgstr ""
+
+#: comments.php:61
+#@ wpzoom
+msgid "to post a comment."
+msgstr ""
+
+#: comments.php:70
+#@ wpzoom
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:70
+#@ wpzoom
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:70
+#@ wpzoom
+msgid "Logout"
+msgstr ""
+
+#: comments.php:77
+#@ wpzoom
+msgid "Name"
+msgstr ""
+
+#: comments.php:80
+#@ wpzoom
+msgid "E-Mail (will not be published)"
+msgstr ""
+
+#: comments.php:83
+#@ wpzoom
+msgid "Website"
+msgstr ""
+
+#: comments.php:92
+#@ wpzoom
+msgid "Submit Comment"
+msgstr ""
+
+#: comments.php:105
+#@ wpzoom
+msgid "Trackbacks"
+msgstr ""
+
+#: footer.php:32
+#@ wpzoom
+msgid "search"
+msgstr ""
+
+#: footer.php:36
+#@ wpzoom
+msgid "Copyright"
+msgstr ""
+
+#: footer.php:36
+#@ wpzoom
+msgid "All Rights Reserved"
+msgstr ""
+
+#: footer.php:37
+#@ wpzoom
+msgid "Designed by"
+msgstr ""
+
+#: functions/wpzoom-core.php:32
+#@ wpzoom
+msgid "Main Menu"
+msgstr ""
+
+#: functions/wpzoom-core.php:33
+#@ wpzoom
+msgid "Top Menu"
+msgstr ""
+
+#: functions/wpzoom-core.php:34
+#@ wpzoom
+msgid "Footer Menu (under logo)"
+msgstr ""
+
+#: functions/wpzoom-core.php:35
+#@ wpzoom
+msgid "Footer Menu (right to logo)"
+msgstr ""
+
+#: functions/wpzoom-functions.php:89
+#@ wpzoom
+msgid "ago"
+msgstr ""
+
+#: functions/wpzoom-functions.php:190
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions/wpzoom-functions.php:193
+#, php-format
+msgid "%1$s <br/> %2$s"
+msgstr ""
+
+#: functions/wpzoom-functions.php:193
+msgid "(Edit)"
+msgstr ""
+
+#: functions/wpzoom-functions.php:198
+#@ wpzoom
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/wpzoom-functions.php:352
+msgid "Page"
+msgstr ""
+
+#: functions/wpzoom-functions.php:776
+msgid "Title:"
+msgstr ""
+
+#: functions/wpzoom-functions.php:777
+msgid "Flickr RSS URL or Screen name:"
+msgstr ""
+
+#: functions/wpzoom-functions.php:778
+msgid "How many items?"
+msgstr ""
+
+#: functions/wpzoom-functions.php:779
+msgid "More link anchor text:"
+msgstr ""
+
+#: functions/wpzoom-functions.php:780
+msgid "Target: _blank"
+msgstr ""
+
+#: functions/wpzoom-functions.php:845
+#@ wpzoom
+msgid "comments"
+msgstr ""
+
+#: functions/wpzoom-functions.php:849
+#@ wpzoom
+msgid "No commented posts yet"
+msgstr ""
+
+#: functions/wpzoom-functions.php:1067
+msgid "Anonymous"
+msgstr ""
+
+#: index.php:40
+#@ wpzoom
+msgid "Read full story"
+msgstr ""
+
+#: index.php:41
+#: index.php:88
+#: single.php:28
+#@ wpzoom
+msgid "0 comments"
+msgstr ""
+
+#: index.php:41
+#: index.php:88
+#: single.php:28
+#@ wpzoom
+msgid "1 comment"
+msgstr ""
+
+#: index.php:41
+#: index.php:88
+#: single.php:28
+#@ wpzoom
+msgid "% comments"
+msgstr ""
+
+#: index.php:89
+#: page.php:27
+#: single.php:29
+#: template-archives.php:75
+#@ wpzoom
+msgid "Edit this post"
+msgstr ""
+
+#: search.php:18
+#@ wpzoom
+msgid "Search Results for:"
+msgstr ""
+
+#: search.php:52
+#@ wpzoom
+msgid "No results"
+msgstr ""
+
+#: searchform.php:3
+#@ wpzoom
+msgid "search..."
+msgstr ""
+
+#: searchform.php:3
+#@ wpzoom
+msgid "Go"
+msgstr ""
+
+#: single.php:22
+#@ wpzoom
+msgid "You are here:"
+msgstr ""
+
+#: single.php:35
+#@ wpzoom
+msgid "Share this Article"
+msgstr ""
+
+#: single.php:49
+#@ wpzoom
+msgid "Author:"
+msgstr ""
+
+#: single.php:53
+#@ wpzoom
+msgid "<div class=\"hr\"></div><h4>Tags:</h4><span class=\"tag-links\">"
+msgstr ""
+
+#: template-archives.php:35
+#@ wpzoom
+msgid "By Months:"
+msgstr ""
+
+#: template-archives.php:50
+#@ wpzoom
+msgid "By Categories:"
+msgstr ""
+
+#: template-archives.php:65
+#@ wpzoom
+msgid "By Tags:"
+msgstr ""
+
+#: template-fullwidth.php:28
+#@ wpzoom
+msgid "Edit"
+msgstr ""
+
+#: template-fullwidth.php:41
+#@ wpzoom
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: wpzoom-home.php:83
+#: wpzoom-home.php:124
+#: wpzoom-home.php:165
+#: wpzoom-home.php:204
+#: wpzoom-home.php:242
+#: wpzoom-home.php:280
+#: wpzoom-home.php:318
+#: wpzoom-home.php:356
+#: wpzoom-home.php:394
+#: wpzoom-home.php:432
+#@ wpzoom
+msgid "More in this category &rarr;"
+msgstr ""
+
+#: wpzoom-slider.php:33
+#@ wpzoom
+msgid "Read more"
+msgstr ""
+
+#: wpzoom-slider.php:42
+#@ wpzoom
+msgid "previous"
+msgstr ""
+
+#: wpzoom-slider.php:43
+#@ wpzoom
+msgid "next"
+msgstr ""
+
